@@ -1,0 +1,23 @@
+
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+
+# Dataset
+dataset/
+datasets/
+
+# Model files (large files)
+*.h5
+*.keras
+*.pt
+*.pth
+
+# Logs
+runs/
+logs/

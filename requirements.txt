@@ -1,0 +1,9 @@
+tensorflow==2.21.0
+streamlit==1.67.0
+streamlit-webrtc
+av
+opencv-python-headless
+numpy
+pandas
+Pillow
+plotly
